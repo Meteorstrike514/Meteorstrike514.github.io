@@ -1,0 +1,130 @@
+*{
+    color:white;
+
+}
+
+#debug{
+	/*background-color:#636363;*/
+    background-color:black;
+}
+
+#euromast{
+    margin: 0 0 0 200px;
+    
+}
+
+.Wrap{
+	Background-color:black;
+	margin:5px 10px 5px 0;
+	
+}
+
+#myself{
+    margin: 40px 100px 20px 0;
+}
+
+/*ul{
+	list-style-type:none;
+}
+*/
+
+#tekstproject{
+    margin: 40px 0 40px 0;
+    
+}
+
+.partoflist{
+	float:left;
+	margin: 40px 0 5px 0;
+	padding:0 8px 10px 10px;
+	width: 99%;
+	color: white;
+}
+
+
+#knowledge{
+	float:left;
+	margin:5px 0 5px 0;
+	padding:0 0 10px 10px;
+	width:100%;
+	color: white;
+}
+
+
+div #pers{
+	color: white;
+	
+}
+
+.partoflista{
+	float:left;
+	margin: 160px 0 5px 0;
+	padding:0 0 208px 10px;
+	width: 99%;
+    height: 80%;
+    color: white;
+}
+
+.partoflistb{
+
+	margin:85px 0 25px 10px;
+	padding:0 0 0 0;
+	width: 99%;
+    height: 50%;
+    color: white;
+}
+
+.picright{
+    width: 60%;
+    float: left;
+}
+
+img{
+    clear: both;
+    margin: 0 400px 40px 20px;
+    
+}
+
+h2{
+    color:white;
+    text-align: center;
+}
+
+h1{
+    
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin: 100px 0 100px 0;
+    height: 100%;
+    
+}
+
+
+@media screen and (max-width: 1080px){
+  .partoflista{
+	float:left;
+	padding:0 0 16px 10px;
+	width: 100%;
+
+}  
+    
+    #knowledge{
+        width: 100%;
+    }
+    
+    .partoflist{
+        width: 100%;
+    }
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
